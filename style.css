@@ -1,0 +1,124 @@
+body {
+    background-image: url('images/image2.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+    padding: 20px; 20px 20px 20px
+    background-color: rgba(255, 255, 255, 0.255); 
+}
+.head h1 {
+    font: 30px bolder;
+    text-align: center;
+    color: black;
+    font-family: Arial;
+}
+.head img {
+    width: 150px;
+    height: 150px;
+    border: 3px solid black;
+    padding: 3px;
+    border-radius: 100%;
+    box-shadow: 0 15px 20px 0 rgba(0, 0, 0, 0.25); 
+    text-align: center;
+    margin: 0 auto;
+    display: block; 
+}
+.head a h2 {
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    border-radius: 8px;
+    font-family: Arial;
+}
+a h2:hover{
+    border: 2px solid whitesmoke;
+    color: black;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 3px;
+}
+.self.intro h3 { 
+    text-align: left;
+    color: white;
+    border: 3px transparent;
+    background-color: black;
+}
+
+.self.intro p {
+    text-align: center;
+    color: black;
+    font-family: Arial;
+}
+
+.educational h4 {
+    font-family: Arial; 
+    color: bla;
+}
+
+.educational hr {
+    margin-top: 5px;
+}
+
+.educational thead {
+    background-color: black;
+    color: white;
+    font-family: Arial; 
+}
+
+.educational thead {
+    background-color: black;
+    color: white;
+    font-family: Arial; 
+}
+
+
+.educational table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.educational table th{
+    border: 1px solid black;
+    padding: 8px;
+}
+.educational table td{
+    border: 1px solid black;
+    padding: 8px;
+}
+.expertise h3 {
+    text-align: left;
+    color: ;white
+    border: transparent;
+    background-color: black;
+    font-family: Arial; 
+}
+
+.expertise ul {
+    color: black;
+    font-family: Arial; 
+    list-style-type: square;
+}
+
+.it-background h4 {
+    color: white;
+    font-family: Arial; 
+    border: 2px transparent;
+    background-color: black;
+}
+
+.it-background p {
+    color: black;
+    font-family: Arial; 
+}
+
+.applications h4 { 
+    color: white;
+    font-family: Arial; 
+    border: 2px transparent;
+    background-color: black;
+}
+
+.applications ul {
+    color: black;
+    font-family: Arial; 
+}
